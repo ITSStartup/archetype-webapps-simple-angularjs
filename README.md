@@ -16,7 +16,7 @@ webapps-simple-angularjs archetype for creating web application with AngularJS 1
 **Step 1**
 
 ```java
-git clone git@github.com:camilolopes/webapps-simple-angularjs.git
+git clone  git@github.com:ITSStartup/archetype-webapps-simple-angularjs.git
 ```
 
 **Step 2**
