@@ -33,7 +33,7 @@ mvn clean install
 * in Catalog choose **All Catalogs**;
 * in filter type: br.
 
-Now its is expected you see in group id: *br.com.its.archetypes.angularjs.simple*
+Now its is expected you see in group id: *br.com.its.archetype.angularjs.simple*
 
 * choose the archetype and go ahead clicking in next 
 
